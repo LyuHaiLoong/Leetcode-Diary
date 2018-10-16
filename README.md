@@ -1,1 +1,1 @@
-# leetcode-diary
+# Leetcode学习日记
