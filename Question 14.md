@@ -38,8 +38,8 @@ var longestCommonPrefix = function(strs) {
 ```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过不停地修改、测试，尝试出来的一种写法;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;核心思路是先找出数组第一项与第二项的公共字符串。然后往下逐项匹配。通过 indexOf 检查字符串 str 是否处于当前数组项的开头位置，然后进行 str 字符串删除末尾字符的操作，对数组进行循环;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;之所以叫单循环重复法，是因为每执行一次 str 字符串的末尾删除操作，就将 i--，重复循环当前数组项，直到符合条件为止;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;核心思路是先找出数组第一项与第二项的公共字符串。然后往下逐项匹配。通过 **indexOf** 检查字符串 **str 是否处于当前数组项的开头位置**，然后进行 **str 字符串删除末尾字符**的操作，对数组进行循环;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;之所以叫单循环重复法，是因为**每执行一次 str 字符串的末尾删除操作，就将 i--，重复循环当前数组项，直到符合条件为止**;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与最佳的提交代码，在思路上一致;
 
 ##### 2）最佳性能写法
