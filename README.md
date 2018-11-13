@@ -12,6 +12,7 @@
 - [Question 14-Longest Common Prefix](https://github.com/LyuHaiLoong/Leetcode-Diary/blob/master/Question%2014-Longest%20Common%20Prefix.md)
 - [Question 20-Valid Parentheses](https://github.com/LyuHaiLoong/Leetcode-Diary/blob/master/Question%2020-Valid%20Parentheses.md)
 - [Question 26-Remove Duplicates from Sorted Array](https://github.com/LyuHaiLoong/Leetcode-Diary/blob/master/Question%2026-Remove%20Duplicates%20from%20Sorted%20Array.md)
+- [Question 27-Remove Element.md](https://github.com/LyuHaiLoong/Leetcode-Diary/blob/master/Question%2027-Remove%20Element.md)
 - [Question 35-Search Insert Position](https://github.com/LyuHaiLoong/Leetcode-Diary/blob/master/Question%2035-Search%20Insert%20Position.md)
 - [Question 38-Count and Say](https://github.com/LyuHaiLoong/Leetcode-Diary/blob/master/Question%2038-Count%20and%20Say.md)
 - [Question 53-Maximum Subarray](https://github.com/LyuHaiLoong/Leetcode-Diary/blob/master/Question%2053-Maximum%20Subarray.md)
