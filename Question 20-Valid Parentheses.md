@@ -166,4 +166,4 @@ var isValid = function(s) {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;思路不变，只是用到了新的对象 Map 以及 for-of 循环，可以说是充分利用了最新的特性。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于 Map 对象，在写这道题前，并没有接触到过，关于 Map 的方法，请看下图。
 
-![Map对象属性](https://img2018.cnblogs.com/blog/1080150/201810/1080150-20181019220233980-1579684226.png)
+![Map对象属性](https://img2018.cnblogs.com/blog/1080150/201811/1080150-20181113130255927-1231065950.jpg)
